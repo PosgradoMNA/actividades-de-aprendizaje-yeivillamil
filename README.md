@@ -4,5 +4,5 @@ Aqui estarán mis actividades de cada semana
 
 * **Semana 1** -->  01.YeisonVillamil_Actividad_semana1_pythonfordatascience_A01793803 (Módulo 1-3)
 * **Semana 2** -->  02.Actividad_semana2_YeisonVillamil_A01793803_pythonIBM (Módulo 4)
-* **Semana 3*** -->  03.Actividad_semana3_YeisonVillamil_A01793803_pythonIBM (Módulo 5)
+* **Semana 3** -->  03.Actividad_semana3_YeisonVillamil_A01793803_pythonIBM (Módulo 5)
 * **Semana 3** -->  03.Semana3_Actividad1_A01793803
