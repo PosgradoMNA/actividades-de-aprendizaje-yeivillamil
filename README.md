@@ -10,3 +10,4 @@ Aqui estarán mis actividades de cada semana
 * **Semana 4** -->  04.Actividad_semana4_YeisonVillamil_A01793803
 * **Semana 5** -->  05.Semana5_Modulo2_DataAnalysiswithPython_A01793803
 * **Semana 6** -->  06.Semana6_Modulo3_DataAnalysiswithPython_A01793803
+* **Semana 6** -->  06.Semana6_ReduccionDimension_A01793803
