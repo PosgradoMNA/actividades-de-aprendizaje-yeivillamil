@@ -6,6 +6,7 @@ Aqui estarán mis actividades de cada semana
 * **Semana 2** -->  02.Actividad_semana2_YeisonVillamil_A01793803_pythonIBM (Módulo 4)
 * **Semana 3** -->  03.Actividad_semana3_YeisonVillamil_A01793803_pythonIBM (Módulo 5)
 * **Semana 3** -->  03.Semana3_Actividad1_A01793803
-* **Semana 4** -->  04.Semana4_DataAnalysiswithPython_A01793803
+* **Semana 4** -->  04.Semana4_Modulo1_DataAnalysiswithPython_A01793803
 * **Semana 4** -->  04.Actividad_semana4_YeisonVillamil_A01793803
-* **Semana 5** -->  05.Semana5_DataAnalysiswithPython_A01793803
+* **Semana 5** -->  05.Semana5_Modulo2_DataAnalysiswithPython_A01793803
+* **Semana 6** -->  06.Semana6_Modulo3_DataAnalysiswithPython_A01793803
