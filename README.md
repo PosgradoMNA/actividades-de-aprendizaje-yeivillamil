@@ -15,3 +15,4 @@ Aqui estarán mis actividades de cada semana
 * **Semana 7** -->  06.Semana7_Modulo4_DataAnalysiswithPython_A01793803
 * **Semana 8** -->  08.Semana8_KMeans_A01793803
 * **Semana 8** -->  08.Semana8_Regresiones_A01793803
+* **Semana 8** -->  08.Semana8_Modulo5_DataAnalysiswithPython_A01793803
